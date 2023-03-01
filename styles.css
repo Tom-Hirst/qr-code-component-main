@@ -39,6 +39,9 @@ body {
     box-shadow: 0 25px 30px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
 }
 
+.cardtext {
+}
+
 .card img {
     width: 300px;
     height: auto;
@@ -51,7 +54,7 @@ body {
     font-weight: 700;
     color: hsl(218, 44%, 22%);
     text-align: center;
-    width: 300px;
+    width: 280px;
 }
 
 .card p {
@@ -59,7 +62,7 @@ body {
     font-weight: 400;
     color: hsl(220, 15%, 55%);
     text-align: center;
-    margin: 15px;
-    margin-bottom: 30px;
-    width: 300px;
+    width: 280px;
+    margin-bottom: 45px;
 }
+
